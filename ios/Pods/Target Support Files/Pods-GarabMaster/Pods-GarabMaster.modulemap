@@ -1,0 +1,6 @@
+module Pods_GarabMaster {
+  umbrella header "Pods-GarabMaster-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GarabMaster.iml" filepath="$PROJECT_DIR$/.idea/modules/GarabMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GarabMaster.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GarabMaster.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/138905464/GarabMaster.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/138905464/GarabMaster.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1805438524/GarabMaster.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1805438524/GarabMaster.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/662914963/GarabMaster.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/662914963/GarabMaster.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-973455482/GarabMaster.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-973455482/GarabMaster.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1380938080/GarabMaster.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1380938080/GarabMaster.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-680059439/GarabMaster.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-680059439/GarabMaster.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1099436658/GarabMaster.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1099436658/GarabMaster.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2021546327/GarabMaster.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-2021546327/GarabMaster.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2057488188/GarabMaster.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2057488188/GarabMaster.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1536606804/GarabMaster.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1536606804/GarabMaster.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1765641182/GarabMaster.react-native-sqlite-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1765641182/GarabMaster.react-native-sqlite-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-56015695/GarabMaster.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-56015695/GarabMaster.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1311453475/GarabMaster.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1311453475/GarabMaster.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
